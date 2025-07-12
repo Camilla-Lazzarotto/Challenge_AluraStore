@@ -16,7 +16,7 @@ Desafio realizado no curso de Data Science da Alura
 
 ## 📂 Estrutura do Projeto
 
-- `notebook/`: Notebook com todo o processo analítico.
+- `AluraStoreCamillaLazzarotto.ipynb`: Notebook com todo o processo analítico.
 - `README.md`: Documento explicativo sobre o projeto.
 
 ---
